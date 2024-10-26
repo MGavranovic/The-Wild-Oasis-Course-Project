@@ -2,4 +2,4 @@
 
 Main project from Udemy React Course by Jonas Schmedtmann
 
-Built with Reqct Query an Supabase.
+Built with React Query an Supabase.
